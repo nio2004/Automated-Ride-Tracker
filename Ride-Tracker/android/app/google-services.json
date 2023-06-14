@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738514524626",
+    "firebase_url": "https://automated-ride-tracker-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "automated-ride-tracker",
+    "storage_bucket": "automated-ride-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738514524626:android:919ef18ca811546463d00b",
+        "android_client_info": {
+          "package_name": "com.example.automated_ride_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738514524626-gcrm3lv74e707o3d4v7m3p0mpeujd4mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gy91sXnEX3z12OKOZzApbOhoIOaWg64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738514524626-gcrm3lv74e707o3d4v7m3p0mpeujd4mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
