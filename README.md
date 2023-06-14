@@ -1,5 +1,6 @@
 # Automated-Ride-Tracker
 
+Sem 2 Capstone Project:-
 We have made an app to track down vehicles in private organisation's transport system and make efficient communication between the driver and the passengers.
 
 For this we have made an app in Flutter which can trackdown vehicle and the passengers can put a request for their pickup by selecting time, date and destination, whihc can be seen by the driver.
